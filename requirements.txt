@@ -10,3 +10,5 @@ scipy
 librosa
 numba==0.48.0
 ffmpeg
+torchaudio>=0.11.0
+
