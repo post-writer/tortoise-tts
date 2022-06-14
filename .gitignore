@@ -133,3 +133,7 @@ dmypy.json
 .custom/*
 results/*
 debug_states/*
+
+# mac junk
+
+/*/.DS_Store
