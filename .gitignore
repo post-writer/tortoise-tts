@@ -136,4 +136,5 @@ debug_states/*
 
 # mac junk
 
-/*/.DS_Store
+**/.DS_Store
+.DS_Store
